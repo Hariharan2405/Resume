@@ -101,7 +101,7 @@
 		gap:10%;
 	}
 	.re-ed{
-		width:35%;
+		width:60%;
 	}
 	.project-card{
 		width: 48%;
@@ -134,5 +134,8 @@
 	}
 	.project-card{
 		width: 32%;
+	}
+	.re-ed{
+		width:50%;
 	}
 }
